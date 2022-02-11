@@ -1,2 +1,3 @@
 # netrixframework.github.io
-Netrix Framework documentation
+
+Project website at <https://netrixframework.github.io>
